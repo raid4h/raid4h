@@ -7,24 +7,32 @@
   </a>
 </p>
 
-**About Me:**\
+## **About Me:**
 • Studying Computer Science & Engineering at North South University (Expected to finish by 2027)\
 • Currently learning Data Science on Datacamp\
 • Currently doing the Global Consumer Intelligence (GCI) course by Matsuo-Iwasawa Lab in the University of Tokyo
 • Open to onsite/remote/hybrid work
 
-**What I Bring To The Table:**\
-• Languages: Python, C, SQL, Java, C++
-<p>
-  <img src="https://github.com/user-attachments/assets/f56beaef-7eac-4bce-84bf-1aa6c91ae1f4" height="100" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/cfd7eff8-b08a-4745-b63b-fdf00c017a89" height="100" style="display:inline-block;" />
-</p>
+## **What I Bring To The Table:**
+
+### Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 📊 Data Science & Libraries:
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
 
-Certifications:
+## Certifications:
 | Certification | Provider | Status |
 |--------------|---------|--------|
 | GCI World 2026 | Univeristy of Tokyo | ![In Progress](https://img.shields.io/badge/status-In%20Progress-yellow) |
+
+
 
 <!---
 | Data Analyst Professional | DataCamp | ![Completed](https://img.shields.io/badge/status-Completed-brightgreen) |
