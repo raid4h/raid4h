@@ -10,7 +10,7 @@
 ## **About Me:**
 • Studying Computer Science & Engineering at North South University (Expected to finish by 2027)\
 • Currently learning Data Science on Datacamp\
-• Currently doing the Global Consumer Intelligence (GCI) course by Matsuo-Iwasawa Lab in the University of Tokyo
+• Currently doing the Global Consumer Intelligence (GCI) course by Matsuo-Iwasawa Lab in the University of Tokyo\
 • Open to onsite/remote/hybrid work
 
 ## **What I Bring To The Table:**
