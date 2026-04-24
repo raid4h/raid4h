@@ -22,9 +22,33 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### ⚙️ Low-Level & Systems Programming:
+![ARM Assembly](https://img.shields.io/badge/ARM7%20%2F%20Cortex--M3%20Assembly-6E4C13?style=for-the-badge&logo=arm&logoColor=white)
+
+
 ### 📊 Data Science & Libraries:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+
+---
+
+### 🧰 Tools & Platforms:
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### ⚙️ Embedded Systems & Hardware:
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32%20Blue%20Pill-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM7%20%2F%20Cortex--M3-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+
+---
+
+### 🛠️ Engineering & Design:
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 
 ## Certifications:
