@@ -58,11 +58,11 @@
 |--------------|---------|--------|
 | GCI World 2026 | Univeristy of Tokyo | ![In Progress](https://img.shields.io/badge/status-In%20Progress-yellow) |
 --->
-
+<!---
 ## Language Usage
 
 ![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=raid4h&layout=pie&langs_count=12&theme=tokyonight)
-
+--->
 
 <!---
 | Data Analyst Professional | DataCamp | ![Completed](https://img.shields.io/badge/status-Completed-brightgreen) |
